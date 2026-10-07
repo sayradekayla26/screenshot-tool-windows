@@ -1,8 +1,12 @@
-# SnapForge — Fast Screenshot Tool for Windows with Region, Window and Fullscreen Capture
+# SnapForge — A Lightweight Snipping Tool Windows Users Can Actually Enjoy
 
-Grabbing a quick picture of what is on your monitor should take one click, not a trip through system menus. SnapForge is a free, portable screenshot utility for Windows 10 and Windows 11 that lets you shoot the whole desktop, a specific window, or a hand-dragged region, and have the PNG waiting in your clipboard before you let go of the mouse. No account, no sign-up, no watermark stamped across your image.
+If the built-in snipping tool on Windows feels slow, clunky, or hidden behind too many menus, SnapForge is the drop-in replacement. It is a free, portable snipping tool for Windows 10 and Windows 11 that captures the full desktop, a single window, or a hand-dragged region, and puts the PNG on your clipboard the moment you let go of the mouse. No account, no sign-up, no watermark across your image.
 
 ![SnapForge](screenshot.png)
+
+## Why use this instead of the default snipping tool on Windows?
+
+The stock snipping tool Windows ships with gets the job done, but it is tied into system UI, saves through extra dialogs, and keeps changing between versions. SnapForge is a single portable folder — unzip, launch, capture, paste. No admin rights, no registry entries, no cloud, no telemetry, and every shot is a clean PNG dropped straight into `Pictures\SnapForge` and the clipboard at the same instant.
 
 ## Get it
 
